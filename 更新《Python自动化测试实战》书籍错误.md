@@ -37,6 +37,7 @@ def  log()
 dumps() 方法可将 JSON 格式数据序列化为 Python 的相关数据类型（如列表、元组、字典等）；loads() 方法是把 Python 数据类型转换为 JSON 相应的数据类型。
 
 修改为：
+
 loads() 方法可将 JSON 格式数据序列化为 Python 的相关数据类型（如列表、元组、字典等）；Dumps()方法是把 Python 数据类型转换为 JSON 相应的数据类型。
 
 ------
