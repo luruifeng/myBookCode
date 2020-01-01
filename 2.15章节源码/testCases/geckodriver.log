@@ -1,0 +1,622 @@
+1544954534093	geckodriver	INFO	geckodriver 0.19.1
+1544954534103	geckodriver	INFO	Listening on 127.0.0.1:53688
+1544954537241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\23939\\AppData\\Local\\Temp\\rust_mozprofile.UGm5tDvKYjQP"
+1544954539683	Marionette	INFO	Listening on port 53698
+1544954540393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954540420	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954540421	Marionette	DEBUG	[6442450945] Frame script registered
+1544954540441	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954544158	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954544167	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954544225	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954544238	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954544327	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954544327	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954544462	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954544850	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954545911	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954546188	Marionette	INFO	Stopped listening on port 53698
+1544954546522	geckodriver	INFO	geckodriver 0.19.1
+1544954546532	geckodriver	INFO	Listening on 127.0.0.1:53805
+1544954549651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\23939\\AppData\\Local\\Temp\\rust_mozprofile.hNjx55rGWwam"
+1544954551575	Marionette	INFO	Listening on port 53814
+1544954551722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954551755	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954551764	Marionette	DEBUG	[6442450945] Frame script registered
+1544954551808	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954552960	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954552966	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954552999	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954553018	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954553130	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954553130	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954553227	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954553760	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954554719	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954554959	Marionette	INFO	Stopped listening on port 53814
+1544954555276	geckodriver	INFO	geckodriver 0.19.1
+1544954555286	geckodriver	INFO	Listening on 127.0.0.1:53876
+1544954558419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\23939\\AppData\\Local\\Temp\\rust_mozprofile.rxeabt4KISvG"
+1544954560303	Marionette	INFO	Listening on port 53885
+1544954560455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954560489	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954560491	Marionette	DEBUG	[6442450945] Frame script registered
+1544954560526	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954561374	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954561382	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954561412	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954561428	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954563680	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954563680	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954563852	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954564244	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954565237	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954565576	Marionette	INFO	Stopped listening on port 53885
+1544954565934	geckodriver	INFO	geckodriver 0.19.1
+1544954565944	geckodriver	INFO	Listening on 127.0.0.1:53946
+1544954569066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\23939\\AppData\\Local\\Temp\\rust_mozprofile.3HybPDMDdNX5"
+1544954570963	Marionette	INFO	Listening on port 53954
+1544954571105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954571143	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954571147	Marionette	DEBUG	[6442450945] Frame script registered
+1544954571210	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954572141	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954572150	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954572183	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954572203	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954572300	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954572300	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954572482	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954573092	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954574155	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954574434	Marionette	INFO	Stopped listening on port 53954
+JavaScript error: https://www.gjfax.com/static/v40/lib/require.js, line 9: Error: Script error for: KO
+http://requirejs.org/docs/errors.html#scripterror
+[Child 17440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 464
+1544954886058	geckodriver	INFO	geckodriver 0.19.1
+1544954886067	geckodriver	INFO	Listening on 127.0.0.1:54310
+1544954889171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.cAqk1dae04e7"
+1544954890884	Marionette	INFO	Listening on port 54318
+1544954891207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954891243	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954891244	Marionette	DEBUG	[6442450945] Frame script registered
+1544954891268	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954892107	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954892115	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954892148	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954892164	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954892264	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954892264	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954892378	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954892684	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954897144	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954897362	Marionette	INFO	Stopped listening on port 54318
+1544954897704	geckodriver	INFO	geckodriver 0.19.1
+1544954897712	geckodriver	INFO	Listening on 127.0.0.1:54385
+1544954900815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.o9mNGwmFXx7g"
+1544954902489	Marionette	INFO	Listening on port 54395
+1544954902846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954902878	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954902879	Marionette	DEBUG	[6442450945] Frame script registered
+1544954902900	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954903710	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954903719	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954903748	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954903765	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954903864	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954903865	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954903969	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954904367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954908809	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954908981	Marionette	INFO	Stopped listening on port 54395
+1544954909289	geckodriver	INFO	geckodriver 0.19.1
+1544954909298	geckodriver	INFO	Listening on 127.0.0.1:54461
+1544954912394	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.MpWoGV8rffAp"
+1544954914092	Marionette	INFO	Listening on port 54476
+1544954914431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954914459	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954914461	Marionette	DEBUG	[6442450945] Frame script registered
+1544954914482	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954915273	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954915279	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954915313	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954915329	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954915406	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954915406	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954915511	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954915768	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954920180	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954920365	Marionette	INFO	Stopped listening on port 54476
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544954920700	geckodriver	INFO	geckodriver 0.19.1
+1544954920708	geckodriver	INFO	Listening on 127.0.0.1:54540
+1544954923805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.dPVvgXvoDgmi"
+1544954925496	Marionette	INFO	Listening on port 54550
+1544954925838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954925868	Marionette	DEBUG	[6442450945] Frame script loaded
+1544954925870	Marionette	DEBUG	[6442450945] Frame script registered
+1544954925893	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544954926672	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544954926681	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544954926713	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954926736	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544954926841	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544954926841	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544954927003	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544954927499	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544954931945	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544954932095	Marionette	INFO	Stopped listening on port 54550
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544955052634	geckodriver	INFO	geckodriver 0.19.1
+1544955052643	geckodriver	INFO	Listening on 127.0.0.1:54794
+1544955055738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.73ufb4DKtkBC"
+1544955057518	Marionette	INFO	Listening on port 54805
+1544955057773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955057806	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955057809	Marionette	DEBUG	[6442450945] Frame script registered
+1544955057829	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955058660	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955058667	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955058697	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955058711	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955058791	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955058792	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955058856	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955059165	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955063577	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955063649	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955063650	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955063702	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/
+1544955064297	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/
+1544955087484	Marionette	INFO	Stopped listening on port 54805
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544955087917	geckodriver	INFO	geckodriver 0.19.1
+1544955087925	geckodriver	INFO	Listening on 127.0.0.1:54980
+1544955091028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.ZKQUfZfSM6en"
+1544955092741	Marionette	INFO	Listening on port 54993
+1544955093066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955093092	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955093094	Marionette	DEBUG	[6442450945] Frame script registered
+1544955093115	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955093923	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955093930	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955093960	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955093977	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955094051	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955094051	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955094164	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955094441	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955098874	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955099078	Marionette	INFO	Stopped listening on port 54993
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[C[GFX1-]: Receive IPC close with reason=AbnormalSh1544955099367	geckodriver	INFO	geckodriver 0.19.1
+1544955099376	geckodriver	INFO	Listening on 127.0.0.1:55068
+1544955102464	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.UaF633e4rqJc"
+1544955104102	Marionette	INFO	Listening on port 55082
+1544955104496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955104522	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955104524	Marionette	DEBUG	[6442450945] Frame script registered
+1544955104541	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955105365	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955105371	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955105403	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955105420	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955105651	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955105652	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955105767	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955106009	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955110399	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955110563	Marionette	INFO	Stopped listening on port 55082
+1544955110877	geckodriver	INFO	geckodriver 0.19.1
+1544955110886	geckodriver	INFO	Listening on 127.0.0.1:55150
+1544955113983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.cgRvzgzA2Y01"
+1544955115650	Marionette	INFO	Listening on port 55163
+1544955116037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955116063	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955116065	Marionette	DEBUG	[6442450945] Frame script registered
+1544955116089	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955117090	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955117097	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955117126	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955117147	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955117299	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955117299	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955117468	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955118252	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955122658	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955122822	Marionette	INFO	Stopped listening on port 55163
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544955336384	geckodriver	INFO	geckodriver 0.19.1
+1544955336394	geckodriver	INFO	Listening on 127.0.0.1:55558
+1544955339522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\23939\\AppData\\Local\\Temp\\rust_mozprofile.c1A5uWX85iHJ"
+1544955341628	Marionette	INFO	Listening on port 55568
+1544955342692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955342721	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955342723	Marionette	DEBUG	[6442450945] Frame script registered
+1544955342747	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955343556	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955343563	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955343599	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955343622	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955343742	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955343742	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955343863	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955344165	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955345203	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955345251	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955345252	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955345313	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/
+1544955345862	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/
+1544955354323	Marionette	INFO	Stopped listening on port 55568
+1544955401849	geckodriver	INFO	geckodriver 0.19.1
+1544955401858	geckodriver	INFO	Listening on 127.0.0.1:55723
+1544955404971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.3xAMIcey5LYe"
+1544955406651	Marionette	INFO	Listening on port 55732
+1544955407014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955407092	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955407093	Marionette	DEBUG	[6442450945] Frame script registered
+1544955407111	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955407938	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955407944	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955407974	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955407988	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955408113	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955408113	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955408259	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955408619	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955413056	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955441575	Marionette	INFO	Stopped listening on port 55732
+1544955441982	geckodriver	INFO	geckodriver 0.19.1
+1544955441991	geckodriver	INFO	Listening on 127.0.0.1:55911
+1544955445097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.Q4Keju42kkpj"
+1544955446702	Marionette	INFO	Listening on port 55920
+1544955447139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955447202	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955447203	Marionette	DEBUG	[6442450945] Frame script registered
+1544955447225	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955448136	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955448144	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955448174	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955448202	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955448341	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955448341	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955448527	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955449000	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955453491	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955453649	Marionette	INFO	Stopped listening on port 55920
+[GFX1-]: Receive IPC close wi1544955453970	geckodriver	INFO	geckodriver 0.19.1
+1544955453979	geckodriver	INFO	Listening on 127.0.0.1:56030
+1544955457076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.ZP1BEcmziTh4"
+1544955458670	Marionette	INFO	Listening on port 56041
+1544955459121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955459170	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955459172	Marionette	DEBUG	[6442450945] Frame script registered
+1544955459194	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955460073	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955460079	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955460112	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955460134	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955460358	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955460359	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955460511	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955460878	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955465289	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955465455	Marionette	INFO	Stopped listening on port 56041
+1544955465746	geckodriver	INFO	geckodriver 0.19.1
+1544955465755	geckodriver	INFO	Listening on 127.0.0.1:56116
+1544955468854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.E3JNe3krM3vd"
+1544955470514	Marionette	INFO	Listening on port 56126
+1544955470893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955470931	Marionette	DEBUG	[6442450945] Frame script loaded
+1544955470933	Marionette	DEBUG	[6442450945] Frame script registered
+1544955470958	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544955471746	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544955471751	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544955471786	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955471803	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544955471872	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544955471872	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544955471973	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544955472192	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544955476592	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544955476746	Marionette	INFO	Stopped listening on port 56126
+1544956324117	geckodriver	INFO	geckodriver 0.19.1
+1544956324126	geckodriver	INFO	Listening on 127.0.0.1:57350
+1544956327236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.n2GF3xcuRwKL"
+1544956328926	Marionette	INFO	Listening on port 57359
+1544956329275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544956329302	Marionette	DEBUG	[6442450945] Frame script loaded
+1544956329304	Marionette	DEBUG	[6442450945] Frame script registered
+1544956329331	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544956330147	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544956330153	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956330183	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956330201	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544956333440	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544956333441	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544956333572	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544956333867	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956338315	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544956338470	Marionette	INFO	Stopped listening on port 57359
+1544956338786	geckodriver	INFO	geckodriver 0.19.1
+1544956338795	geckodriver	INFO	Listening on 127.0.0.1:57424
+1544956341900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.Kj9BfRKrDnpn"
+1544956343700	Marionette	INFO	Listening on port 57435
+1544956343946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544956343973	Marionette	DEBUG	[6442450945] Frame script loaded
+1544956343975	Marionette	DEBUG	[6442450945] Frame script registered
+1544956344002	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544956344913	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544956344918	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956344950	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956344965	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544956345055	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544956345055	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544956345224	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544956345730	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956350118	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544956350290	Marionette	INFO	Stopped listening on port 57435
+[Child 5300, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ip1544956350587	geckodriver	INFO	geckodriver 0.19.1
+1544956350594	geckodriver	INFO	Listening on 127.0.0.1:57504
+1544956353685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.hzlher0Sv4i3"
+1544956355386	Marionette	INFO	Listening on port 57513
+1544956355720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544956355748	Marionette	DEBUG	[6442450945] Frame script loaded
+1544956355749	Marionette	DEBUG	[6442450945] Frame script registered
+1544956355769	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544956356538	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544956356544	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956356574	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956356590	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544956356909	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544956356909	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544956357037	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544956357350	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956361783	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544956361948	Marionette	INFO	Stopped listening on port 57513
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1544956509079	geckodriver	INFO	geckodriver 0.19.1
+1544956509092	geckodriver	INFO	Listening on 127.0.0.1:57732
+1544956512165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.QfSGpAYzfnW5"
+1544956513871	Marionette	INFO	Listening on port 57742
+1544956514202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544956514232	Marionette	DEBUG	[6442450945] Frame script loaded
+1544956514234	Marionette	DEBUG	[6442450945] Frame script registered
+1544956514260	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544956515241	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544956515248	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956515279	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956515295	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544956515545	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544956515546	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544956518758	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956518760	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544956523229	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544956523433	Marionette	INFO	Stopped listening on port 57742
+1544956523743	geckodriver	INFO	geckodriver 0.19.1
+1544956523751	geckodriver	INFO	Listening on 127.0.0.1:57810
+1544956526824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.4ZQhfxFe4YCv"
+1544956528627	Marionette	INFO	Listening on port 57824
+1544956528871	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544956528905	Marionette	DEBUG	[6442450945] Frame script loaded
+1544956528907	Marionette	DEBUG	[6442450945] Frame script registered
+1544956528939	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544956529738	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544956529746	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956529777	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956529796	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544956530065	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544956530065	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544956530207	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544956530732	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956535187	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544956535362	Marionette	INFO	Stopped listening on port 57824
+1544956535672	geckodriver	INFO	geckodriver 0.19.1
+1544956535681	geckodriver	INFO	Listening on 127.0.0.1:57887
+1544956538789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.oXTQ73oyhfbh"
+1544956540694	Marionette	INFO	Listening on port 57896
+1544956540854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544956540886	Marionette	DEBUG	[6442450945] Frame script loaded
+1544956540892	Marionette	DEBUG	[6442450945] Frame script registered
+1544956540922	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1544956541771	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1544956541779	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1544956541812	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956541831	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1544956541926	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1544956541927	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1544956542086	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1544956542367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1544956546797	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1544956546974	Marionette	INFO	Stopped listening on port 57896
+1550303987563	geckodriver	INFO	geckodriver 0.19.1
+1550303987582	geckodriver	INFO	Listening on 127.0.0.1:55881
+1550303990465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.3cDNM51GNaEI"
+1550303992427	Marionette	INFO	Listening on port 55892
+1550303992486	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550303992517	Marionette	DEBUG	[6442450945] Frame script loaded
+1550303992537	Marionette	DEBUG	[6442450945] Frame script registered
+1550303992573	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1550303994082	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1550303994088	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1550303994131	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550303994146	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1550303994225	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1550303994226	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1550303994327	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1550303994732	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550303999130	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1550303999263	Marionette	INFO	Stopped listening on port 55892
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1550303999533	geckodriver	INFO	geckodriver 0.19.1
+1550303999541	geckodriver	INFO	Listening on 127.0.0.1:55953
+1550304002643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.kHQyeMitodva"
+1550304004209	Marionette	INFO	Listening on port 55962
+1550304004658	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550304004713	Marionette	DEBUG	[6442450945] Frame script loaded
+1550304004716	Marionette	DEBUG	[6442450945] Frame script registered
+1550304004742	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1550304005981	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1550304005989	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1550304006026	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304006048	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1550304006145	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1550304006145	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1550304006246	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1550304006451	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304010800	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1550304010934	Marionette	INFO	Stopped listening on port 55962
+[Child 1980, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1550304011213	geckodriver	INFO	geckodriver 0.19.1
+1550304011220	geckodriver	INFO	Listening on 127.0.0.1:56032
+1550304014309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.7iyNd6ldR4q5"
+1550304015769	Marionette	INFO	Listening on port 56042
+1550304015820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550304015849	Marionette	DEBUG	[6442450945] Frame script loaded
+1550304015865	Marionette	DEBUG	[6442450945] Frame script registered
+1550304015911	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1550304017286	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1550304017292	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1550304017328	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304017344	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1550304017434	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1550304017435	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1550304017580	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1550304017912	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304022273	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1550304022417	Marionette	INFO	Stopped listening on port 56042
+1550304026432	geckodriver	INFO	geckodriver 0.19.1
+1550304026442	geckodriver	INFO	Listening on 127.0.0.1:56112
+1550304029533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.FBxiSKD7JJQk"
+1550304030934	Marionette	INFO	Listening on port 56120
+1550304031043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550304031070	Marionette	DEBUG	[6442450945] Frame script loaded
+1550304031073	Marionette	DEBUG	[6442450945] Frame script registered
+1550304031100	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1550304032002	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1550304032006	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1550304032037	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304032052	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1550304032144	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1550304032145	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1550304032260	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1550304032628	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304037017	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1550304037161	Marionette	INFO	Stopped listening on port 56120
+1550304037416	geckodriver	INFO	geckodriver 0.19.1
+1550304037423	geckodriver	INFO	Listening on 127.0.0.1:56185
+1550304040510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.ZMuQrdDBEj6r"
+1550304041892	Marionette	INFO	Listening on port 56194
+1550304042026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550304042054	Marionette	DEBUG	[6442450945] Frame script loaded
+1550304042055	Marionette	DEBUG	[6442450945] Frame script registered
+1550304042080	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1550304042897	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1550304042902	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1550304042931	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304042949	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1550304043037	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1550304043037	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1550304043149	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1550304043419	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304047777	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1550304047911	Marionette	INFO	Stopped listening on port 56194
+[Child 14564, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1550304048184	geckodriver	INFO	geckodriver 0.19.1
+1550304048191	geckodriver	INFO	Listening on 127.0.0.1:56255
+1550304051292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\WINDOWS\\TEMP\\rust_mozprofile.53VlXU1ZKCWX"
+1550304052866	Marionette	INFO	Listening on port 56264
+1550304053303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550304053349	Marionette	DEBUG	[6442450945] Frame script loaded
+1550304053350	Marionette	DEBUG	[6442450945] Frame script registered
+1550304053365	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1550304054035	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1550304054042	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+1550304054066	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304054088	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.gjfax.com/toLogin
+1550304054175	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.gjfax.com/toLogin
+1550304054177	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.gjfax.com/toLogin
+1550304054298	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.gjfax.com/toLogin
+JavaScript warning: https://www.gjfax.com/static/v40/lib/ui/validate/jquery.validate.extend.js?ver=4.0.2018062101, line 70: unreachable code after return statement
+1550304054668	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.gjfax.com/toLogin
+1550304059043	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1550304059174	Marionette	INFO	Stopped listening on port 56264
+[Parent 12940, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch[GFX1-]: Receive IPC close with reason=Abnor
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0017,name=PLayerTransaction::Msg_ClearCachedResources) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7E0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7E0003,name=PTexture::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0006,name=PLayerTransaction::Msg_ReleaseCompositable) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4F0005,name=PLayerTransaction::Msg_ReleaseLayer) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with re

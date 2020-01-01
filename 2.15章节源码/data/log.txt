@@ -1,0 +1,16 @@
+2018-12-16 12:48:18,342-logTest-INFO-helper:PO-gjs：打开浏览器进入到项目首页
+2018-12-16 12:48:18,782-logTest-INFO-helper:PO-gjs：输入正确用户名和密码为空
+2018-12-16 12:48:18,866-logTest-INFO-helper:PO-gjs：登录失败获取信息进行断言
+2018-12-16 12:48:19,333-logTest-INFO-helper:PO-gjs：登录失败后获取截图信息
+2018-12-16 12:48:29,631-logTest-INFO-helper:PO-gjs：打开浏览器进入到项目首页
+2018-12-16 12:48:29,925-logTest-INFO-helper:PO-gjs：输入用户名为空和正确为空
+2018-12-16 12:48:29,991-logTest-INFO-helper:PO-gjs：登录失败获取信息进行断言
+2018-12-16 12:48:30,457-logTest-INFO-helper:PO-gjs：登录失败后获取截图信息
+2018-12-16 12:48:40,578-logTest-INFO-helper:PO-gjs：打开浏览器进入到项目首页
+2018-12-16 12:48:40,889-logTest-INFO-helper:PO-gjs：输入用户名为空和正确密码
+2018-12-16 12:48:40,957-logTest-INFO-helper:PO-gjs：登录失败获取信息进行断言
+2018-12-16 12:48:41,415-logTest-INFO-helper:PO-gjs：登录失败后获取截图信息
+2018-12-16 12:48:51,893-logTest-INFO-helper:PO-gjs：打开浏览器进入到项目首页
+2018-12-16 12:48:52,358-logTest-INFO-helper:PO-gjs：输入正确的用户名和密码
+2018-12-16 12:48:53,173-logTest-INFO-helper:PO-gjs：登录成功获取信息进行断言
+2018-12-16 12:48:54,063-logTest-INFO-helper:PO-gjs：登录成功后获取截图信息
